@@ -101,7 +101,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
-    background: url(../img/background.jpg);
+    background: url(../img/seoulbackground.jpg);
     background-attachment: fixed;
     background-size: cover; }
     body#bg-img:after {
@@ -112,7 +112,7 @@ body {
       width: 100%;
       height: 100%;
       z-index: -1;
-      background: rgba(68, 68, 68, 0.9); }
+      background: rgba(68, 68, 68, 0.8); }
 
 h1, h2, h3 {
   margin: 0;
